@@ -2,3 +2,6 @@ python-telegram-bot
 qrcode
 python-dotenv
 markdown
+pytz
+markdown2pdf
+reportlab

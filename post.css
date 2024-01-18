@@ -1,0 +1,9 @@
+div.QR {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.QR span {
+  font-size: 0.75rem;
+}
